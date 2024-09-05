@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/brianbreder/brianbreder/blob/main/img/header_aramuni.png?raw=true"/>
+<img align="center" alt="Header" src="img/ART TEC.png"/>
 </div>
 
 -----
