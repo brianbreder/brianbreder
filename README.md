@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Brian</code>, tenho 20 anos, moro em BH e estudo programação desde os 18 anos de idade. Atualmente estou cursando  <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Brian</code>, tenho 20 anos, moro em BH e estudo programação desde os 18 anos de idade. Atualmente sou  <code>Desenvolvedor</code> e cursando Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 -----
