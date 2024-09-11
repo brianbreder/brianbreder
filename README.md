@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/brianbreder/brianbreder/blob/main/img/ART%20TEC.png" target="_blank"><img src="https://github.com/brianbreder/brianbreder/blob/main/img/img/github3.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/brianbreder/brianbreder/blob/main/img/ART%20TEC.png" target="_blank"><img src="https://github.com/brianbreder/brianbreder/blob/main/img/github3.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/brianbreder"><img src="https://github.com/brianbreder/brianbreder/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
