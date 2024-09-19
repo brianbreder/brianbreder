@@ -42,7 +42,7 @@
 Sou o <code>Brian</code>, um jovem determinado e sociável, com facilidade de comunicação e liderança de equipe. Desde cedo, desenvolvi habilidades de gestão de processos e relacionamento interpessoal, trabalhando em áreas como vendas e atendimento ao público e indústria metalúrgica, onde aprimorei a gestão de equipes e a análise de processos.
 
 Minha paixão pela música me impulsionou a me tornar DJ e produtor musical aos 16 anos, demonstrando minha criatividade e capacidade de aprender rápido.
-<a href="https://allmylinks.com/djbrianbr" target="_blank"> <img height="20" whidth="20" alt="GIF" src="https://github.com/brianbreder/brianbreder/blob/main/img/spotify.gif?raw=true"/> &nbsp;Clique aqui para conhecer mais!!!&nbsp; :headphones: </a>
+<a href="https://allmylinks.com/djbrianbr" target="_blank"> <img alt="GIF" src="https://github.com/brianbreder/brianbreder/blob/main/img/spotify.gif?raw=true"/> &nbsp; Clique aqui para conhecer mais!!!&nbsp; :headphones: </a>
 
 A programação me fascinou desde os 17 anos, mas a falta de recursos me impediu de mergulhar de cabeça nesse universo. Com persistência, aos 18 anos, adquiri meu próprio computador e me dediquei a cursos online para aprimorar minhas habilidades. Agora, como estudante de Engenharia de Software, busco uma formação sólida para me destacar na área, combinando meu interesse em tecnologia com a experiência em gestão e desenvolvimento.
 
