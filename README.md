@@ -113,7 +113,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 </td>
 <td>
 <div>
-<img alt="CAPA" src="img/foto-perfil.jpeg" width="640px" height="650px"/>
+<img alt="CAPA" src="img/foto-perfil.jpeg" width="1000px" height="2000px"/>
 </div>
 </td>
 </tr>
