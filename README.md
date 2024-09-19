@@ -112,7 +112,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="650px"/>
+<img alt="CAPA" src="img/foto-perfil.jpeg" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
