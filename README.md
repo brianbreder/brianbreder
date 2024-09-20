@@ -92,7 +92,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 
 - :mailbox: Para me encontrar, este é meu <a href="mailto:brederbrian@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:bbfelix@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.
 
-- :calendar: 15/07/2004 :mushrool:
+- :calendar: 15/07/2004 :mushrol:
 
 </p>
 </div>
