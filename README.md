@@ -126,9 +126,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 &nbsp; 
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/primefaces.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/spring.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/play.png?raw=true"/></a></code>
 &nbsp;
