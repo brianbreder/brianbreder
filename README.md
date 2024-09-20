@@ -74,26 +74,19 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
  
  - :airplane: Conhecer as maiores belezas naturais pela terra
  
-- :briefcase:  Em busca do primeiro emprego na área da tecnologia 
+- :briefcase: Em busca do primeiro emprego na área da tecnologia 
 
 - :trophy: Adoro vôlei, já joguei jeng de handbol pelo time da escola e também gosto de jogos eletrônicos 
 
 
-- :atom: 
+- :atom: Amo conversar sobre astrologia, curiosidades e conexões do universo, historias e acontecimentos mistícos e tudo relacionado as energias e relações da vida
 
-<br />
-- :memo: 
+- :books: Voltando a estabelecer o habito de leitura com livros voltado para estudos de espiritualidade 
 
-<br />
-- :books: 
+- :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galo doido</a>. :rooster:
+ 
+- :tv: Meu anime preferido chama-se One piece 
 
-<br />
-- :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:
-
-<br />
-- :basketball: 
-<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>.<br />
 - :speech_balloon: 
 
 <br />
