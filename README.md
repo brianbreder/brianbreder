@@ -87,14 +87,12 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
  
 - :tv: Meu anime preferido chama-se One piece 
 
-- :speech_balloon: 
+- :speech_balloon:Gosto de conversa e conhecer todo tipo de pessoa, pois cada pessoa carrega uma história única    
 
-<br />
-- :mailbox: Para me encontrar, este é meu <a href="mailto:brederbrian@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:bbfelix@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
-- :calendar: 
+- :mailbox: Para me encontrar, este é meu <a href="mailto:brederbrian@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:bbfelix@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.
 
-<br />
-- :page_facing_up: 
+- :calendar: 15/07/2004
+
 </p>
 </div>
 </td>
