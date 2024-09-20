@@ -66,7 +66,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 <td>
 <div align="justify">
 <p> 
-- :man_teacher:Engenharia de software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>
+- :man_teacher: Engenharia de software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>
 
 - :mortar_board: Aprofundar estudos em analise de dados e websegurança
 
@@ -74,20 +74,11 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
  
  - :airplane: Conhecer as maiores belezas naturais pela terra
  
-- :briefcase:  
+- :briefcase:  Em busca do primeiro emprego na área da tecnologia 
 
-:man_teacher:
+- :trophy: Adoro vôlei, já joguei jeng de handbol pelo time da escola e também gosto de jogos eletrônicos 
 
-<br />
-- :man_teacher:
 
-<br />
-- :trophy:
-
-<br />
-- :mortar_board: 
-
-<br />
 - :atom: 
 
 <br />
