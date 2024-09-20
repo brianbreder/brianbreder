@@ -66,12 +66,12 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 <td>
 <div align="justify">
 <p> 
-- :man_teacher:Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,  <br />
+- :man_teacher:Engenharia de software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,  <br />
 - :mortar_board: 
 
  - :necktie:      
  
-   :airplane:
+ - :airplane: Conhecer a maiores belezas naturais 
  <br />
 - :briefcase:  
 
