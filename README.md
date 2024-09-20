@@ -67,6 +67,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 <div align="justify">
 <p> 
 - :man_teacher:Engenharia de software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>
+
 - :mortar_board: Aprofundar estudos em analise de dados e websegurança
 
  - :necktie:  Autoconhecimento e estudos esotéricos     
