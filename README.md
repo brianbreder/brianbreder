@@ -116,7 +116,7 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-- Áreas mais usadas
+- <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp; Áreas mais usadas
 
 - Aprendendo atualmente
 
