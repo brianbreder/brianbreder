@@ -118,42 +118,56 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 
 - <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp; Áreas mais usadas
 
-- Aprendendo atualmente
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/html.svg?raw=true"/></a></code>
+&nbsp;
 
-- Área de interesse
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/css.svg?raw=true"/></a></code>
+&nbsp;
+ 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;
+
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/git.png?raw=true"/></a></code>
+&nbsp; 
+
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/vs.png?raw=true"/></a></code>
+&nbsp;
+
+- :man_teacher: Aprendendo atualmente
+
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/intellij.png?raw=true"/></a></code>
+&nbsp;
+
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/nodejs.png?raw=true"/></a></code>
+&nbsp;
+
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/c.png"/></a></code>&nbsp;
+
+<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/spring.png?raw=true"/></a></code>
+&nbsp;
+
+<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/nextjs.png?raw=true"/></a></code>
+&nbsp;
+
+- :atom: Área de interesse
+
+<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/gitlab.png?raw=true"/></a></code>
+&nbsp;  
+
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/fastapi.svg?raw=true"/></a></code>
+&nbsp;    
+
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/react.png?raw=true"/></a></code>
+&nbsp;
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/python.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/c.png"/></a></code>
-&nbsp; 
+ 
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/cpp.svg"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/csharp.png"/></a></code>
-&nbsp;  
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/css.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp;  
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/fastapi.svg?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.+com/brianbreder/brianbreder/blob/main/img/csharp.png"/></a></code>
 &nbsp;    
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/git.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/gitlab.png?raw=true"/></a></code>
-&nbsp;  
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/vs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/intellij.png?raw=true"/></a></code>
-&nbsp;
+
 </div>
 
 -----
