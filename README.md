@@ -143,18 +143,18 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 
 - :atom: Área de interesse
 
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/python.png"/></a></code>
+&nbsp; 
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/gitlab.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/fastapi.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/python.png"/></a></code>
-&nbsp; 
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/cpp.svg"/></a></code>
 &nbsp;
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/csharp.png"/></a></code>
 &nbsp;    
-
 </div>
+
 -----
