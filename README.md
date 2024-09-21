@@ -158,3 +158,9 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
 </div>
 
 -----
+
+<div>
+<img align="rigth" alt="Footer" whidth="1000" heigth="1600" src="https://github.com/brianbreder/brianbreder/blob/main/img/foto-evolucao.jpeg"/>
+</div>
+
+-----
