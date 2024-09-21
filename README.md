@@ -165,7 +165,8 @@ Gostaria de ter a oportunidade de mostrar meu potencial e contribuir para o seu 
  
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/cpp.svg"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.+com/brianbreder/brianbreder/blob/main/img/csharp.png"/></a></code>
+
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/brianbreder/brianbreder/blob/main/img/csharp.png"/></a></code>
 &nbsp;    
 
 </div>
